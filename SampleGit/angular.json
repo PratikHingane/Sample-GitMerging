@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SampleGit"
+    }
+  },
+  "defaultProject": "SampleGit",
+  "cli": {
+    "analytics": false
+  }
 }
